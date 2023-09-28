@@ -1,0 +1,1 @@
+console.log("Que preguiça cara.")
