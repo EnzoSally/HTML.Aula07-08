@@ -1,1 +1,3 @@
-console.log("Que preguiça cara.")
+function createTask(taskTitle, taskDescription = "") {
+    
+}
